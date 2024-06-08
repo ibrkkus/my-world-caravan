@@ -21,7 +21,7 @@ export default function Navbar() {
           <div className="text-white text-sm lg:container mx-5 lg:mx-auto flex justify-between">
             <a
               className="flex items-center py-1 px-3 relative -left-3 hover:bg-antresit-dark transition duration-150 ease-out"
-              href="https://maps.app.goo.gl/5PgRpAsvhQ2WYdpaA"
+              href="https://maps.app.goo.gl/xyUD628wEiiR25YUA"
               target="_blank"
               rel="noopener noreferrer"
             >
